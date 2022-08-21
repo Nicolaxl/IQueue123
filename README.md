@@ -1,5 +1,5 @@
 # IQueue123
-Queueing application created using Java, Sockets, and Web programming languages
+Queueing application created using Java, Sockets, Android Studio, and Web programming languages
 
 ## INSTALLATION MANUAL
 ### Please follow these steps carefully to operate IQueue123.
