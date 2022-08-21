@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Client/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1685185185185185" />
+        <entry key="..\:/Client/app/src/main/res/drawable-xxhdpi/cut_card_background2.xml" value="0.19114583333333332" />
+        <entry key="..\:/Client/app/src/main/res/drawable-xxhdpi/ic_bing_news2.xml" value="0.12708333333333333" />
+        <entry key="..\:/Client/app/src/main/res/drawable/background_chat.xml" value="0.1703125" />
+        <entry key="..\:/Client/app/src/main/res/drawable/background_chat_input.xml" value="0.16203703703703703" />
+        <entry key="..\:/Client/app/src/main/res/drawable/background_content_top.xml" value="0.16203703703703703" />
+        <entry key="..\:/Client/app/src/main/res/drawable/background_received_message.xml" value="0.2546875" />
+        <entry key="..\:/Client/app/src/main/res/drawable/background_sent_message.xml" value="0.2546875" />
+        <entry key="..\:/Client/app/src/main/res/drawable/button_background1.xml" value="0.19479166666666667" />
+        <entry key="..\:/Client/app/src/main/res/drawable/button_background2.xml" value="0.19479166666666667" />
+        <entry key="..\:/Client/app/src/main/res/drawable/button_background3.xml" value="0.19479166666666667" />
+        <entry key="..\:/Client/app/src/main/res/drawable/cut_card_background.xml" value="0.19895833333333332" />
+        <entry key="..\:/Client/app/src/main/res/drawable/ic_back.xml" value="0.16203703703703703" />
+        <entry key="..\:/Client/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.1685185185185185" />
+        <entry key="..\:/Client/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.1685185185185185" />
+        <entry key="..\:/Client/app/src/main/res/drawable/ic_bing_news.xml" value="0.12708333333333333" />
+        <entry key="..\:/Client/app/src/main/res/drawable/ic_chat2.xml" value="0.19114583333333332" />
+        <entry key="..\:/Client/app/src/main/res/drawable/ic_emergency.xml" value="0.19114583333333332" />
+        <entry key="..\:/Client/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1685185185185185" />
+        <entry key="..\:/Client/app/src/main/res/drawable/ic_notepad2.xml" value="0.19114583333333332" />
+        <entry key="..\:/Client/app/src/main/res/drawable/ic_queue2.xml" value="0.19114583333333332" />
+        <entry key="..\:/Client/app/src/main/res/layout/activity_main.xml" value="0.12360688956433637" />
+        <entry key="..\:/Client/app/src/main/res/layout/admin_menu.xml" value="0.264" />
+        <entry key="..\:/Client/app/src/main/res/layout/admin_queue.xml" value="0.17617753623188406" />
+        <entry key="..\:/Client/app/src/main/res/layout/bingnews.xml" value="0.1" />
+        <entry key="..\:/Client/app/src/main/res/layout/chat_room.xml" value="0.176" />
+        <entry key="..\:/Client/app/src/main/res/layout/edit_note.xml" value="0.21422101449275363" />
+        <entry key="..\:/Client/app/src/main/res/layout/edit_profile.xml" value="0.16983695652173914" />
+        <entry key="..\:/Client/app/src/main/res/layout/finance_fragment.xml" value="0.1" />
+        <entry key="..\:/Client/app/src/main/res/layout/human_msg.xml" value="0.264" />
+        <entry key="..\:/Client/app/src/main/res/layout/layout_news.xml" value="0.2" />
+        <entry key="..\:/Client/app/src/main/res/layout/list_item.xml" value="0.1160081053698075" />
+        <entry key="..\:/Client/app/src/main/res/layout/login_activity.xml" value="0.16259057971014493" />
+        <entry key="..\:/Client/app/src/main/res/layout/message_area.xml" value="0.264" />
+        <entry key="..\:/Client/app/src/main/res/layout/notepad_layout.xml" value="0.1" />
+        <entry key="..\:/Client/app/src/main/res/layout/robot_msg.xml" value="0.264" />
+        <entry key="..\:/Client/app/src/main/res/layout/set_counter.xml" value="0.16983695652173914" />
+        <entry key="..\:/Client/app/src/main/res/layout/set_counter_admin.xml" value="0.16983695652173914" />
+        <entry key="..\:/Client/app/src/main/res/layout/set_counter_users.xml" value="0.16983695652173914" />
+        <entry key="..\:/Client/app/src/main/res/layout/user_profile.xml" value="0.19882246376811594" />
+        <entry key="..\:/Client/app/src/main/res/layout/users_menu.xml" value="0.264" />
+        <entry key="..\:/Client/app/src/main/res/layout/users_queue.xml" value="0.18206521739130435" />
+        <entry key="..\:/Client/app/src/main/res/layout/webnews.xml" value="0.1" />
+        <entry key="..\:/Client/app/src/main/res/layout/welcome_iqueue123.xml" value="0.15625" />
+        <entry key="..\:/Client/app/src/main/res/menu/add_note.xml" value="0.25416666666666665" />
+        <entry key="..\:/Client/app/src/main/res/menu/add_note_menu.xml" value="0.184375" />
+        <entry key="..\:/Client/app/src/main/res/menu/main_menu.xml" value="0.12962962962962962" />
+        <entry key="..\:/Client/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1685185185185185" />
+        <entry key="..\:/Client/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1685185185185185" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

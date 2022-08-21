@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.client">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Client"
+        android:usesCleartextTraffic="true">
+
+        <activity
+            android:name=".Welcome"
+            android:exported="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".LoginActivity"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name=".UsersHomepage"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name=".AdminHomepage"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name=".UserProfile"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name=".EditProfile"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name=".Notepad"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name=".EditNote"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name=".UsersQueue"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name=".AdminQueue"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name=".SetCounterUsers"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name=".SetCounterAdmin"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name=".ChatBotActivity"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name=".BingNews"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name=".webView"
+            android:screenOrientation="portrait">
+        </activity>
+
+    </application>
+
+</manifest>
