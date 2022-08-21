@@ -47,4 +47,4 @@ button and the Client will attempt handshakes to the service, if handshakes are 
 connected
 
 
-© 2021 雷國亮 D0726433, Network Programming Final Project
+© 2021 Nicolas Louis, Network Programming Final Project
